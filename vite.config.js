@@ -2,7 +2,7 @@ import { resolve } from 'path';
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: '/procon-team2/',
+  base: '/procon-team3/',
   build: {
     rollupOptions: {
       input: {
